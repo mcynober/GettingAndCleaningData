@@ -16,9 +16,7 @@ Darwin Kernel Version 13.3.0 x86_64
 R 3.1.0 GUI 1.64 Mavericks build (6734)
 R Studio Version 0.98.953
 
-The code requires the following packages to operate :
-- plyr()
-- read.table()
+The code requires the plyr() package to operate.
 
 The run_analysis.R file can only be run if the Samsung data is in your working directory as a Zip file. Due to the size of the dataset, it is recommended, to prevent long processing time, to download it directly through the link provided above rather than through R.
 
