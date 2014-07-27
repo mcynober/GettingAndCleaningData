@@ -2,7 +2,7 @@ Getting And Cleaning Data - Peer Assessment - Readme
 ======================
 This repository contains:
 
-- the current README.md file describing how the script works
+- the current README.md file describing the scripte environment
 - a CodeBook.md file describing the variables of the output file
 - a run_analysis.R file containing the code for performing the analysis
 - a tidy dataset produced according to these instructions
@@ -16,7 +16,7 @@ Darwin Kernel Version 13.3.0 x86_64
 R 3.1.0 GUI 1.64 Mavericks build (6734)
 R Studio Version 0.98.953
 
-The code requires the plyr() package to operate.
+The code requires the plyr() package to operate. Detailed informations about how the script works are encolsed in the CodeBook.md file. It should be read along with the current readme file when evaluating this assignment.
 
 The run_analysis.R file can only be run if the Samsung data is in your working directory as a Zip file. Due to the size of the dataset, it is recommended, to prevent long processing time, to download it directly through the link provided above rather than through R.
 
